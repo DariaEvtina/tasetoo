@@ -1,0 +1,7 @@
+C:\Users\opilane\source\repos\DariaEvtina\tasemetoo\tasemetoo\bin\Debug\tasemetoo.exe.config
+C:\Users\opilane\source\repos\DariaEvtina\tasemetoo\tasemetoo\bin\Debug\tasemetoo.exe
+C:\Users\opilane\source\repos\DariaEvtina\tasemetoo\tasemetoo\bin\Debug\tasemetoo.pdb
+C:\Users\opilane\source\repos\DariaEvtina\tasemetoo\tasemetoo\obj\Debug\tasemetoo.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\DariaEvtina\tasemetoo\tasemetoo\obj\Debug\tasemetoo.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\DariaEvtina\tasemetoo\tasemetoo\obj\Debug\tasemetoo.exe
+C:\Users\opilane\source\repos\DariaEvtina\tasemetoo\tasemetoo\obj\Debug\tasemetoo.pdb
