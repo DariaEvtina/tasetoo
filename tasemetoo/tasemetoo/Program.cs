@@ -8,6 +8,17 @@ namespace tasemetoo
 {
     class Program
     {
+        int[] GetIntArray(int num)
+        {
+            List<int> listOfInts = new List<int>();
+            while(num > 0)
+            {
+            listOfInts.Add(num % 10);
+            num = num / 10;
+            }
+            listOfInts.Reverse();
+            return listOfInts.ToArray();
+    }
         static int Words(string t)
         {
             string[] words = t.Split(' ');
@@ -65,12 +76,21 @@ namespace tasemetoo
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("Paartu arvud:");
             for (int i = 0; i < paarituarv.Length; i++)
             {
                 Console.WriteLine(i);
             }
+            int[] arvud23=new int[]{100,1221,66666,12345,54321,29022}
+            int[] a=GetIntArray(arvud23[0]);
+            int[] b=GetIntArray(arvud23[1]);
+            int[] n=GetIntArray(arvud23[2]);
+            int[] c=GetIntArray(arvud23[3]);
+            int[] d=GetIntArray(arvud23[4]);
+            int[] e=GetIntArray(arvud23[5]);
+            
             Console.ReadLine();
-
+            
         }
     }
 }
